@@ -4,7 +4,7 @@
 
 This portfolio demonstrates practical data analysis skills using \*\*SQL\*\* and \*\*Python\*\*, including data cleaning, exploration, and reporting.  
 
-All projects are based on realistic sample datasets.
+All projects are based on sample datasets.
 
 
 
@@ -57,6 +57,7 @@ All projects are based on realistic sample datasets.
 
 
 \*\*Note:\*\* All datasets are small, anonymised, and created for learning purposes.
+
 
 
 
